@@ -1,0 +1,642 @@
+[
+  {
+    "source": 2002,
+    "target": 2002,
+    "value": 2
+  },
+  {
+    "source": 99,
+    "target": 99,
+    "value": 3
+  },
+  {
+    "source": "a",
+    "target": "a",
+    "value": 7
+  },
+  {
+    "source": "acting",
+    "target": "acting",
+    "value": 1
+  },
+  {
+    "source": "all",
+    "target": "all",
+    "value": 4
+  },
+  {
+    "source": "always",
+    "target": "always",
+    "value": 1
+  },
+  {
+    "source": "an",
+    "target": "an",
+    "value": 3
+  },
+  {
+    "source": "and",
+    "target": "and",
+    "value": 10
+  },
+  {
+    "source": "are",
+    "target": "are",
+    "value": 3
+  },
+  {
+    "source": "as",
+    "target": "as",
+    "value": 1
+  },
+  {
+    "source": "at",
+    "target": "at",
+    "value": 3
+  },
+  {
+    "source": "baby",
+    "target": "baby",
+    "value": 3
+  },
+  {
+    "source": "back",
+    "target": "back",
+    "value": 1
+  },
+  {
+    "source": "been",
+    "target": "been",
+    "value": 1
+  },
+  {
+    "source": "better",
+    "target": "better",
+    "value": 3
+  },
+  {
+    "source": "better",
+    "target": "better",
+    "value": 1
+  },
+  {
+    "source": "both",
+    "target": "both",
+    "value": 3
+  },
+  {
+    "source": "but",
+    "target": "but",
+    "value": 1
+  },
+  {
+    "source": "bye",
+    "target": "bye",
+    "value": 6
+  },
+  {
+    "source": "bye",
+    "target": "bye",
+    "value": 3
+  },
+  {
+    "source": "childhood",
+    "target": "childhood",
+    "value": 3
+  },
+  {
+    "source": "covers",
+    "target": "covers",
+    "value": 1
+  },
+  {
+    "source": "cups",
+    "target": "cups",
+    "value": 1
+  },
+  {
+    "source": "dancing",
+    "target": "dancing",
+    "value": 3
+  },
+  {
+    "source": "day",
+    "target": "day",
+    "value": 8
+  },
+  {
+    "source": "days",
+    "target": "days",
+    "value": 3
+  },
+  {
+    "source": "drinking",
+    "target": "drinking",
+    "value": 1
+  },
+  {
+    "source": "each",
+    "target": "each",
+    "value": 1
+  },
+  {
+    "source": "eighteen",
+    "target": "eighteen",
+    "value": 1
+  },
+  {
+    "source": "eleven",
+    "target": "eleven",
+    "value": 1
+  },
+  {
+    "source": "ever",
+    "target": "ever",
+    "value": 1
+  },
+  {
+    "source": "fast",
+    "target": "fast",
+    "value": 1
+  },
+  {
+    "source": "feather",
+    "target": "feather",
+    "value": 1
+  },
+  {
+    "source": "fell",
+    "target": "fell",
+    "value": 7
+  },
+  {
+    "source": "for",
+    "target": "for",
+    "value": 3
+  },
+  {
+    "source": "forever",
+    "target": "forever",
+    "value": 1
+  },
+  {
+    "source": "forward",
+    "target": "forward",
+    "value": 1
+  },
+  {
+    "source": "friends",
+    "target": "friends",
+    "value": 3
+  },
+  {
+    "source": "from",
+    "target": "from",
+    "value": 1
+  },
+  {
+    "source": "go",
+    "target": "go",
+    "value": 3
+  },
+  {
+    "source": "got",
+    "target": "got",
+    "value": 3
+  },
+  {
+    "source": "grownups",
+    "target": "grownups",
+    "value": 1
+  },
+  {
+    "source": "guess",
+    "target": "guess",
+    "value": 1
+  },
+  {
+    "source": "hit",
+    "target": "hit",
+    "value": 3
+  },
+  {
+    "source": "hold",
+    "target": "hold",
+    "value": 3
+  },
+  {
+    "source": "holding",
+    "target": "holding",
+    "value": 1
+  },
+  {
+    "source": "hood",
+    "target": "hood",
+    "value": 3
+  },
+  {
+    "source": "i",
+    "target": "i",
+    "value": 5
+  },
+  {
+    "source": "if",
+    "target": "if",
+    "value": 3
+  },
+  {
+    "source": "im",
+    "target": "im",
+    "value": 1
+  },
+  {
+    "source": "in",
+    "target": "in",
+    "value": 11
+  },
+  {
+    "source": "is",
+    "target": "is",
+    "value": 1
+  },
+  {
+    "source": "it",
+    "target": "it",
+    "value": 3
+  },
+  {
+    "source": "its",
+    "target": "its",
+    "value": 1
+  },
+  {
+    "source": "just",
+    "target": "just",
+    "value": 1
+  },
+  {
+    "source": "kissed",
+    "target": "kissed",
+    "value": 1
+  },
+  {
+    "source": "light",
+    "target": "light",
+    "value": 1
+  },
+  {
+    "source": "like",
+    "target": "like",
+    "value": 5
+  },
+  {
+    "source": "lips",
+    "target": "lips",
+    "value": 1
+  },
+  {
+    "source": "love",
+    "target": "love",
+    "value": 4
+  },
+  {
+    "source": "love",
+    "target": "love",
+    "value": 6
+  },
+  {
+    "source": "lovers",
+    "target": "lovers",
+    "value": 1
+  },
+  {
+    "source": "lungs",
+    "target": "lungs",
+    "value": 3
+  },
+  {
+    "source": "me",
+    "target": "me",
+    "value": 3
+  },
+  {
+    "source": "me",
+    "target": "me",
+    "value": 6
+  },
+  {
+    "source": "middle",
+    "target": "middle",
+    "value": 3
+  },
+  {
+    "source": "more",
+    "target": "more",
+    "value": 4
+  },
+  {
+    "source": "mustang",
+    "target": "mustang",
+    "value": 3
+  },
+  {
+    "source": "my",
+    "target": "my",
+    "value": 1
+  },
+  {
+    "source": "need",
+    "target": "need",
+    "value": 1
+  },
+  {
+    "source": "never",
+    "target": "never",
+    "value": 1
+  },
+  {
+    "source": "no",
+    "target": "no",
+    "value": 1
+  },
+  {
+    "source": "now",
+    "target": "now",
+    "value": 1
+  },
+  {
+    "source": "now",
+    "target": "now",
+    "value": 1
+  },
+  {
+    "source": "of",
+    "target": "of",
+    "value": 7
+  },
+  {
+    "source": "oh",
+    "target": "oh",
+    "value": 1
+  },
+  {
+    "source": "old",
+    "target": "old",
+    "value": 3
+  },
+  {
+    "source": "on",
+    "target": "on",
+    "value": 16
+  },
+  {
+    "source": "one",
+    "target": "one",
+    "value": 3
+  },
+  {
+    "source": "only",
+    "target": "only",
+    "value": 1
+  },
+  {
+    "source": "ooh",
+    "target": "ooh",
+    "value": 18
+  },
+  {
+    "source": "ooh",
+    "target": "ooh",
+    "value": 8
+  },
+  {
+    "source": "oops",
+    "target": "oops",
+    "value": 3
+  },
+  {
+    "source": "other",
+    "target": "other",
+    "value": 1
+  },
+  {
+    "source": "our",
+    "target": "our",
+    "value": 6
+  },
+  {
+    "source": "paint",
+    "target": "paint",
+    "value": 3
+  },
+  {
+    "source": "picture",
+    "target": "picture",
+    "value": 3
+  },
+  {
+    "source": "plastic",
+    "target": "plastic",
+    "value": 1
+  },
+  {
+    "source": "present",
+    "target": "present",
+    "value": 1
+  },
+  {
+    "source": "problems",
+    "target": "problems",
+    "value": 3
+  },
+  {
+    "source": "remember",
+    "target": "remember",
+    "value": 1
+  },
+  {
+    "source": "ride",
+    "target": "ride",
+    "value": 3
+  },
+  {
+    "source": "sang",
+    "target": "sang",
+    "value": 3
+  },
+  {
+    "source": "say",
+    "target": "say",
+    "value": 2
+  },
+  {
+    "source": "singing",
+    "target": "singing",
+    "value": 7
+  },
+  {
+    "source": "songs",
+    "target": "songs",
+    "value": 3
+  },
+  {
+    "source": "summer",
+    "target": "summer",
+    "value": 1
+  },
+  {
+    "source": "take",
+    "target": "take",
+    "value": 3
+  },
+  {
+    "source": "taken",
+    "target": "taken",
+    "value": 1
+  },
+  {
+    "source": "than",
+    "target": "than",
+    "value": 2
+  },
+  {
+    "source": "that",
+    "target": "that",
+    "value": 1
+  },
+  {
+    "source": "the",
+    "target": "the",
+    "value": 26
+  },
+  {
+    "source": "this",
+    "target": "this",
+    "value": 2
+  },
+  {
+    "source": "this",
+    "target": "this",
+    "value": 1
+  },
+  {
+    "source": "time",
+    "target": "time",
+    "value": 2
+  },
+  {
+    "source": "time",
+    "target": "time",
+    "value": 1
+  },
+  {
+    "source": "to",
+    "target": "to",
+    "value": 2
+  },
+  {
+    "source": "top",
+    "target": "top",
+    "value": 3
+  },
+  {
+    "source": "TRUE",
+    "target": "TRUE",
+    "value": 1
+  },
+  {
+    "source": "uh",
+    "target": "uh",
+    "value": 1
+  },
+  {
+    "source": "uh",
+    "target": "uh",
+    "value": 5
+  },
+  {
+    "source": "under",
+    "target": "under",
+    "value": 1
+  },
+  {
+    "source": "up",
+    "target": "up",
+    "value": 3
+  },
+  {
+    "source": "wanna",
+    "target": "wanna",
+    "value": 3
+  },
+  {
+    "source": "was",
+    "target": "was",
+    "value": 1
+  },
+  {
+    "source": "we",
+    "target": "we",
+    "value": 18
+  },
+  {
+    "source": "well",
+    "target": "well",
+    "value": 1
+  },
+  {
+    "source": "went",
+    "target": "went",
+    "value": 3
+  },
+  {
+    "source": "were",
+    "target": "were",
+    "value": 6
+  },
+  {
+    "source": "when",
+    "target": "when",
+    "value": 4
+  },
+  {
+    "source": "where",
+    "target": "where",
+    "value": 3
+  },
+  {
+    "source": "will",
+    "target": "will",
+    "value": 1
+  },
+  {
+    "source": "with",
+    "target": "with",
+    "value": 6
+  },
+  {
+    "source": "woods",
+    "target": "woods",
+    "value": 3
+  },
+  {
+    "source": "yeah",
+    "target": "yeah",
+    "value": 1
+  },
+  {
+    "source": "yeah",
+    "target": "yeah",
+    "value": 1
+  },
+  {
+    "source": "you",
+    "target": "you",
+    "value": 7
+  },
+  {
+    "source": "young",
+    "target": "young",
+    "value": 3
+  }
+]
